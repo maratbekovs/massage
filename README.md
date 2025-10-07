@@ -1,6 +1,6 @@
 # ConnectSphere: College Messenger
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/maratbekovs/massage)
 
 ConnectSphere is a modern, minimalist, and real-time messenger application designed exclusively for the academic community of a college. It facilitates seamless communication between students and faculty through direct messages and group chats. The platform features a clean, intuitive interface with a focus on usability and performance. The architecture is built to be scalable, running on Cloudflare's edge network for global low-latency access, ensuring a fast and responsive user experience across all devices.
 
@@ -88,4 +88,4 @@ This application is designed to be deployed on the Cloudflare network.
 2.  **One-Click Deploy:**
     Alternatively, you can deploy this project to Cloudflare with a single click.
 
-    [cloudflarebutton]
+    [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/maratbekovs/massage)
